@@ -1,0 +1,129 @@
+{
+    "name": "CricFy TV - Live Sports Streaming",
+    "short_name": "CricFy TV",
+    "description": "Stream live cricket, football and sports for free on Android with HD quality",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0b1220",
+    "theme_color": "#3b82f6",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "en",
+    "categories": ["entertainment", "sports", "streaming"],
+    "icons": [
+        {
+            "src": "/assets/img/icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/assets/img/screenshot-mobile-1.png",
+            "sizes": "390x844",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "CricFy TV mobile interface"
+        },
+        {
+            "src": "/assets/img/screenshot-desktop-1.png",
+            "sizes": "1920x1080",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "CricFy TV desktop interface"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Download APK",
+            "short_name": "Download",
+            "description": "Download CricFy TV APK v5.6",
+            "url": "/download.html",
+            "icons": [
+                {
+                    "src": "/assets/img/shortcut-download-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "name": "Installation Guide",
+            "short_name": "Install",
+            "description": "How to install CricFy TV",
+            "url": "/how-to-install.html",
+            "icons": [
+                {
+                    "src": "/assets/img/shortcut-install-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "name": "Features",
+            "short_name": "Features",
+            "description": "CricFy TV features and capabilities",
+            "url": "/features.html",
+            "icons": [
+                {
+                    "src": "/assets/img/shortcut-features-96x96.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                }
+            ]
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=com.cricfy.tv",
+            "id": "com.cricfy.tv"
+        }
+    ],
+    "prefer_related_applications": false
+}
+
